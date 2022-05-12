@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kkb-mmmut/kkb-mmmut.github.io/static/css/main.382c5e93.css",
+    "main.js": "/kkb-mmmut/kkb-mmmut.github.io/static/js/main.d0ba7d8e.js",
+    "static/js/787.b617bab0.chunk.js": "/kkb-mmmut/kkb-mmmut.github.io/static/js/787.b617bab0.chunk.js",
+    "static/media/loading.gif": "/kkb-mmmut/kkb-mmmut.github.io/static/media/loading.6d8ae96a40c63a5131cc.gif",
+    "index.html": "/kkb-mmmut/kkb-mmmut.github.io/index.html",
+    "main.382c5e93.css.map": "/kkb-mmmut/kkb-mmmut.github.io/static/css/main.382c5e93.css.map",
+    "main.d0ba7d8e.js.map": "/kkb-mmmut/kkb-mmmut.github.io/static/js/main.d0ba7d8e.js.map",
+    "787.b617bab0.chunk.js.map": "/kkb-mmmut/kkb-mmmut.github.io/static/js/787.b617bab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382c5e93.css",
+    "static/js/main.d0ba7d8e.js"
+  ]
+}
